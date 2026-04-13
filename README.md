@@ -4,7 +4,7 @@ Kayseri Üniversitesi'nde Bilgisayar Teknolojisi öğrencisiyim. Odağımı tama
 
 ### 🛠 Teknik Yetkinlikler
 - **Veritabanı:** MS SQL Server, T-SQL, RDBMS Tasarımı
-- **Yazılım:** C# (Form), Temel Python
+- **Yazılım:** C# , Temel Python
 - **Araçlar:** Excel (Advanced), GitHub, LinkedIn Networking
 
 ### 🎯 Hedefler
