@@ -1,16 +1,14 @@
-## Hi there 👋
+# Selam, ben Ozan Erdoğan! 👋
 
-<!--
-**ozanerdogann/ozanerdogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kayseri Üniversitesi'nde Bilgisayar Teknolojisi öğrencisiyim. Odağımı tamamen **İlişkisel Veritabanları (RDBMS)**, **SQL** ve **Veri Analitiği** üzerine kurdum. Veriyi sadece çekmekle kalmıyor, onu anlamlı raporlara dönüştürerek iş kararlarına katkı sağlamaya çalışıyorum.
 
-Here are some ideas to get you started:
+### 🛠 Teknik Yetkinlikler
+- **Veritabanı:** MS SQL Server, T-SQL, RDBMS Tasarımı
+- **Yazılım:** C# (Form), Temel Python
+- **Araçlar:** Excel (Advanced), GitHub, LinkedIn Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Hedefler
+- Veri analitiği süreçlerinde uzmanlaşmak.
+- Global projelerde (Uzaktan/Almanya) yer almak.
+
+📫 **Bana Ulaşabilirsiniz:** [LinkedIn Profilin](https://www.linkedin.com/in/ozan-erdogan)
