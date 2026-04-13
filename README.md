@@ -1,4 +1,4 @@
-# Selam, ben Ozan Erdoğan! 👋
+# Merhaba, ben Ozan Erdoğan! 👋
 
 Kayseri Üniversitesi'nde Bilgisayar Teknolojisi öğrencisiyim. Odağımı tamamen **İlişkisel Veritabanları (RDBMS)**, **SQL** ve **Veri Analitiği** üzerine kurdum. Veriyi sadece çekmekle kalmıyor, onu anlamlı raporlara dönüştürerek iş kararlarına katkı sağlamaya çalışıyorum.
 
